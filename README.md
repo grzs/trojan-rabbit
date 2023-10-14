@@ -1,4 +1,4 @@
-# The Wooden Rabbit #
+# The Trojan Rabbit #
 A collection of python extras (and an hommage to Monty Python's Holy Grail)
 
 ## Decorator @dynamicmethod ##
@@ -17,7 +17,7 @@ This decorator provides the missing option for method definitions:
 ### Usage ###
 
 ```python
-from wooden_rabbit.dynamicmethod import dynamicmethod
+from trojan_rabbit.dynamicmethod import dynamicmethod
 
 
 class Knight:
